@@ -14,6 +14,10 @@ Benefit
 
 	benefit of + n (xxxx的益處)
 
+	ex:
+		Green tea may be benefit to the therapy of atrial fibrillation.
+		atrial fibrillation: /ˌeɪ.tri.əl ˌfɪb.rəˈleɪ.ʃən/ 心律不整
+
 ex: 
 	I didn't get/derive (much) benefit from school.
 	The changes are of benefit to commerce.
@@ -138,7 +142,11 @@ relative: 相對的、相對應的  (不是與……相關的)
 related 與…相關的	
     使用 related to 
 
+phrase: 用詞：
 
+
+fulfill v.  完成、實現
+fulfilment n.  (注意少了一個l)
 
 
 
