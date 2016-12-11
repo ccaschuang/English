@@ -14,20 +14,26 @@ Instead:
 
 	Because it is more likely: 更有可能的
 
-Overall:
+Overall = In general 大致來說，大體上來說，
 	Overall, I think an ability to keep clear perspective in life is a more essential factor in achieving happiness.
 
 Unfortunately
 	Unfortunately, professionals from other fields who make a much greater contribution to human society, are paid so much less that it is hard to disagree with the statement.
 
-In spite of this
+In spite of this 儘管如此
 	In spite of this, the obvious benefits of computer skills for young children cannot be denied.
 
-In addition to
+In addition to 	除……之外
 	In addition to the financial benefits, some jobs bring intellectually rewards.
 	(In addition to... 在英式英文中，也會使用Apart from 來代替)
 
-Accordingly
+	intellectually: 智力上的
+	intellectually rewards: (應該是指) 獲得知識
+	ex:
+		Which jobs are intellectually rewarding and socially useful?
+
+
+Accordingly, 因此、相對應的
 	There are not many job opportunities availalbe. Accordingly, the competition for jobs is increasingly fierce.
 
 	fierce: 激烈的。猛烈的。
@@ -35,6 +41,8 @@ Accordingly
 Oddly enough (奇怪的是：也可以寫成Strangely enough)
 	Oddly enough, most people seem to enjoy saying which ones are bad, and then say some are slightly better.
 
+	Oddly enough, we were just talking about the same thing. 說也奇怪，我們剛談的正是這件事。
+	Oddly enough, he did not seem to remember his own birthday
 Interestingly
 	Interestingly, a reasonable amount of pressure seems to make the majority of employees more productive.
 
@@ -67,8 +75,9 @@ In some cases 在某些情況下
 
 	In some cases, an employee is working in a job that suits neither their skills nor their personality.
 
-As a result of
+As a result of ...的結果
 	As a result of media attention, sports professionals in my country have become stars and celebrities.
+	媒體關注的結果是導致了……
 
 To V.  (動詞不定式前置)
 	To become successful, more skills and dedication are required.
@@ -88,9 +97,21 @@ Hostorically
 Essentially 
 In essence  (在本質上)
 
+其他可以加在最前面的狀詞或短語：
+
+Generally speaking, (一般來說)
+In general, 
+Overall
+	ex: Generally speaking, I'm inclined to agree with you.
+		Generally speaking, I don't like spicy food.
+		In general, I agree to what you said.
+		In general,physics is only one science among many
+
+
 First, (也有人用Firstly,現在都可以了。)
 Next or then (用Next比較清楚)
 Finally
+
 
 
 ========================================================
@@ -98,7 +119,7 @@ B: 句中加入短語：
 	可以在句子中間加入一個小短語，使得長句子顯得更靈活且有長短交錯
 
 ex: 
-After all, because of , for example
+After all 畢竟, because of , for example
 
 	This will affect the job market, which, after all, is a key target in any econmic plan.
 
@@ -124,6 +145,25 @@ ex: in this respect, rather than ..., as a whole,  because of this.
 ========================================================
 D: 副詞   
 	副詞可以用來修飾adj, v. 甚至全句。
+
+	It often seems that the aount of money they are able to earn in a short time can not possibly be justified by the amount of work they do.
+
+	The gap between their earnings and those of people who work less selfishly for the good of society has been widening.
+
+	Teachers continually complain about this problem and meausres should be taken to combat the situation.
+
+	A product's success cannot be solely attributed to its advertising.
+
+	Interestingly, technology can positively contribute to the keeping alive of traditional skills and ways of life.
+
+	Some people may argue that such new technology can help children to develop physically, intellectually and emotionally.
+
+	Ideally, all the weapons of mass destruction should be eliminated. But in reality, the elimination of such weapons would cause serious national security concerns.
+
+	*在雅思作文中涉及討論某問題的解決方案的時候經常會寫：理論上… 但事實上
+	In theory/ Theoretically / Hypothetically, ...  but in practice/ but in actuality/ but  realistically
+	ex: 
+	In theory, there is no difference between theory and practice. But, in practice, there is.
 ========================================================
 E: 倒裝句  
 	很多人都學過的文法，但常常忘記
@@ -285,8 +325,6 @@ N: the + adj
 the rich/ the wealthy/ the poor/ the needy/ the elderly/ the umemployed/ the weak/ the neglected
 
 	One of the most effective ways to teach children about responsibilities is to encourage them to care of the poor and the needy.
-
-
 
 
 

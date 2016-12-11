@@ -21,15 +21,21 @@ reflect
 	vt. 反映、體驗
 	Some feelings about one's job must reflect how an individual feels about his or her life as a whole.
 
+	as a whole: 大體上。
+
 reward    (在writing, speaking都很常使用)
 	n. vt. 給予回報  
 	rewarding adj. 有回報的 
 	There is a sense of progression and purpose that rewards a worker.
 
+
 justify
 	vt. 讓…合理   證實……的合理性
 	It often seems that the amount of money they are able to earn in a short time 
 	cannot possibly be justified by the amount of work they do.
+
+	Are you sure that these measures are justified?
+	New evidence from a self-confessed liar was not enough to justify a retrial.
 
 circumstance:
 	n. 處境、狀況
