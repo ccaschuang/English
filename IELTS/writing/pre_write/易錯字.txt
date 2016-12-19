@@ -148,5 +148,12 @@ phrase: 用詞：
 fulfill v.  完成、實現
 fulfilment n.  (注意少了一個l)
 
+maintain: 	  		   v.
+maintenance: 維持、保養 (n.)
+
+refrigerator    冰箱(注意沒有d)
+fridge			冰箱(有d)
+
+guide dog: 導盲犬
 
 
