@@ -3,7 +3,9 @@
 1: 破題
 論述立場
 
-使用First, Then,等分段解釋
+使用First,開始解釋原日
+
+Further, then, ...etc作第二個
 
 ex:
 The first reason why we have  so much packaging is we consume so much more every day than families did in the past.

@@ -103,4 +103,16 @@ embark 	開始、
 
 versatile: 多才多藝的
 
+resin: 樹脂
+
+malleable : 有韌性
+
+
+
+formidable: 強大的、利害的。
+
+rubbish = garbage = trash 垃圾
+
+Paying lip service to it (僅僅說空話)
+The govenment should take action to promote international trade instead of just paying lip service to it.
 
