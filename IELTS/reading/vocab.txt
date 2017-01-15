@@ -130,4 +130,12 @@ mutated: 突變
 
 perceptual: 知覺的
 
+prevail: has influence: 
+	prevail over:  to get control or influence 勝過，有影響力
+	3: A prevail over (or outweigh / outbalance) B    A > B
+	The advantages of stiffer punishment for driving offenders prevail over its disadvantages.
+	antonym: pale in comparison with....與…相比微不足道
 
+reveal: 揭露
+
+caucasian: 白種人

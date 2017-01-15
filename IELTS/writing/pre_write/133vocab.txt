@@ -14,6 +14,11 @@ cultural assimilation: 文化同化
 indiscriminate: 盲目的、不分青紅皂白的
   ex: It was random, it was indiscriminate , it was murderous, and it was close to home.
 
+copy sth. mechanically / apply indiscriminately 對…機械照搬
+	It is highly disturbing that many architects today are copying traditional architectural styles mechanically in their building designs.
+	antonym: apply sth. creatively (有創造性地使用。)
+
+
 inferior: 質量較差的、比較不好的。 lower in rank, status, or quality.
   ex: Income effects on attendance were found to be negative, which supports the idea found in previous research of hockey as an inferior good.
 

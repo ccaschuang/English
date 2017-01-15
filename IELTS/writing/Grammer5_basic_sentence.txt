@@ -199,7 +199,8 @@ IELTS 寫作36基礎句型
 	synonym: be incongruous with
 	anotnym: be consistent with
 
-18: 
+18: It is manifest that...
+ 	這是顯而易見的…
 
 
 

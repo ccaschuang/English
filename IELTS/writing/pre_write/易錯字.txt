@@ -158,4 +158,9 @@ guide dog: 導盲犬
 
 
 
+discriminate: v. 分別、分辯= distinguish
+discrimination: n.歧視
+indiscriminate: adj. 盲目的：不分青紅皂白的
+
+
 
